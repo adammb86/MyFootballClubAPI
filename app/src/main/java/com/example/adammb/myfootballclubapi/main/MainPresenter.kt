@@ -1,5 +1,6 @@
 package com.example.adammb.myfootballclubapi.main
 
+import android.util.Log
 import com.example.adammb.myfootballclubapi.api.ApiRepository
 import com.example.adammb.myfootballclubapi.api.TheSportDBApi
 import com.example.adammb.myfootballclubapi.model.TeamResponse
